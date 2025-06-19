@@ -23,7 +23,10 @@
     </style>
 </head>
 <body>
-<div style="background:#fff8e1; padding:12px 20px; border-bottom:1px solid #f0c36d; text-align:center; font-size:15px; color:#6b4e00;">
+<div style="position:sticky;top:0;z-index:999;
+            background:#fff4c2;padding:12px 20px;
+            border-bottom:1px solid #f0c36d;
+            text-align:center;font-size:15px;color:#333;">
   🛈 This page contains affiliate links. I may earn a commission if you sign up through these links — <strong>at no additional cost to you</strong>. Thank you for your support!
 </div>
 
